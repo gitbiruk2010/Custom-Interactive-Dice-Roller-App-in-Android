@@ -16,7 +16,7 @@ DiceRoller is a simple and interactive Android application that allows users to 
 
 ## Installation
 
-To install and run the app on your Android device: DiceRoller.apk
+To install and run the app on your Android device: https://github.com/gitbiruk2010/Custom-Interactive-Dice-Roller-App-in-Android/blob/main/app/DiceRoller.apk
 
 1. Download the APK file from the 
 2. Transfer the APK file to your Android device.
@@ -29,7 +29,7 @@ To build the app from source, follow these steps:
 
 1. Clone the repository:
  
-git clone 
+git clone https://github.com/gitbiruk2010/Custom-Interactive-Dice-Roller-App-in-Android
    
 ## Open the project in Android Studio.
 
